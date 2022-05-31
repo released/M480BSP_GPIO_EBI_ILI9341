@@ -9,7 +9,7 @@ update @ 2022/05/31
 
 ![image](https://github.com/released/M480BSP_GPIO_EBI_ILI9341/blob/main/pin_name_define_I.jpg)	
 
-3. two project : to demo GUI display 
+3. one project : to demo GUI display 
 
 \NuMaker-PFM-M487D\emWin_GUIDemo_GPIO_EBI : use emWin library  , porting from below link , 
 
